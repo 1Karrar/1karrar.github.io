@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+    font-family: "Source Sans 3",serif;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(25, 25, 25);
+    padding: 0 20px 20px 20px;
+    border: 5px solid grey;
+    color: grey;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: grey;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100% ;
+}
+
+button {
+    color: black;
+}
