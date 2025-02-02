@@ -13,6 +13,7 @@ const myButton = document.querySelector("button");
 const myHeading = document.querySelector("h1");
 
 function setUsername() {
+    const myName = prompt("Enter your name");
     if (!myName) {
         setUsername();
     } else{
